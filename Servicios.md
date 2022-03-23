@@ -14,4 +14,4 @@ Contamos con varias piezas de computadoras como disco duros,tarjetas madres,tecl
 SOPORTE TECNICO
 Tenemos operadores que van hasta tu casa para ayudarte a tu problema,lugar donde puede llevar sus aparatos de computo y tambien servicio via telefonico 
   
-  
+   
