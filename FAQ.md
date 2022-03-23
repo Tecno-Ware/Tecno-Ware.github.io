@@ -1,6 +1,6 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
-PREGUNTAS FRECUENTE. 
+## PREGUNTAS FRECUENTE. 
 
 ¿Cuáles son las fechas de inicio y fin que se usan para calcular mi transferencia de datos? El cálculo de la cantidad de transferencia de datos empieza cada mes y termina al final de mes....
 
