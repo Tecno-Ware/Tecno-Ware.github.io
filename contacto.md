@@ -1,6 +1,6 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
-¿DONDE PUEDO CONTACTARLOS?
+## PUEDEN CONTACTARNOS
 
 por correo elec que es :manu_cracks@outlook.com
 
