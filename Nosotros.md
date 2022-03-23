@@ -2,7 +2,18 @@
 
 NOSOTROS 
 
-Somos una empresa  que tiene ya laborando ya 4 años  tiene experencia ya y es 100 porciento confiable aparte que tenemos varios servicios y estabamos basados 100 porciento en computacion y con tecnologia de punta  y queremos que los clientes confien en nosotros para poder seguir brindando nustros servicios.
+Esta empresa cuenta con 4 años de experiencia y busca dar el mejor servicio posible a todos nuestros clientes aparte de ganarnos sus confianza y sigan con nosotros con Tamos con servicio presencial hasta la puerta de su casa o a distancia también contamos con local. 
+
+
+MISION: Es dar el mejor servicio al cliente y rápido y ganar la confianza de nuestros clientes 
+
+VISION: Nosotros queremos ser mejores en el servicio hacia el cliente y se queden con nosotros tanto como aclientarnos más
+
+VALORES: Tener la confianza y seguridad de nuestros clientes hacia nosotros,confien con nuestros trabajos y sus dispositivos electrónicos con nosotros
+
+
+
+
   
   
  
