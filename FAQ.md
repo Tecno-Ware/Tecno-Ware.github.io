@@ -8,5 +8,34 @@
 
 **_¿Rencomendaciones  para un buen estado de PC?_**
 
-> Limpieza interna del PC
-> Revisar los conectores 
+> Limpieza interna del PC 
+
+> Revisar los conectores internos del PC
+
+> Limpieza de monitor del PC
+
+> Los CD-ROM, DVD, CD-RW
+
+> Los teclados
+
+> Mouse
+
+**_¿Que tan frecuente crees que se necesita dar mantenimiento preventivo a la computadora?_**
+
+> Cada 6 meses
+
+**_¿Qué tipo de problemas podría causar fallas en el sistema operativo?_**
+
+> Apagar mal la PC
+
+> Un virus informatico 
+
+> Instalar y desinstalar progrmas
+
+> Drive incorrecto
+
+> Una mala actualizacion
+
+**_¿Que programas se sugieren para dar el mantenimiento correctivo al software?_**
+
+> Instalar un antivirus, Limpieza y optimización del sistema, Restauración del sistema y formateo e instalación de una nueva copia de Windows.
