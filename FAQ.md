@@ -39,3 +39,6 @@
 **_¿Que programas se sugieren para dar el mantenimiento correctivo al software?_**
 
 > Instalar un antivirus, Limpieza y optimización del sistema, Restauración del sistema y formateo e instalación de una nueva copia de Windows.
+
+
+
