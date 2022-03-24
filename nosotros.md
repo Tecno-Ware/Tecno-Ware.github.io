@@ -2,7 +2,7 @@
 
 ## NOSOTROS 
 
-Esta empresa cuenta con 4 años de experiencia y busca dar el mejor servicio posible a todos nuestros clientes aparte de ganarnos sus confianza y sigan con nosotros con Tamos con servicio presencial hasta la puerta de su casa o a distancia también contamos con local. 
+Esta empresa cuenta con 4 años de experiencia y busca dar el mejor servicio posible a todos nuestros clientes aparte de ganarnos su confianza y sigan con nosotros contamos con servicio presencial hasta la puerta de su casa o a distancia también contamos con local. 
 
 
 MISION: Es dar el mejor servicio al cliente y rápido y ganar la confianza de nuestros clientes 
