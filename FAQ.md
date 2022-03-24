@@ -1,6 +1,6 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
-## PREGUNTAS FRECUENTE. 
+## PREGUNTAS FRECUENTE.  
 
 **_¿cada cuando se recomienda darle mantenimiento a una computadora?_**
 
