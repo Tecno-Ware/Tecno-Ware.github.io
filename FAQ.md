@@ -2,15 +2,8 @@
 
 ## PREGUNTAS FRECUENTE. 
 
-> ¿QUE HACER SI MI DISCO DURO ESTA LENTO?:
+**_¿cada cuando se recomienda darle mantenimiento a una computadora?_**
 
-> ¿MI SISTEMA SE CUELGA?
+> Bueno fisicamente cada 2 a 3 meses debes sopletearla para que no acumule polvo y pelusa en su interior, y en cuanto al software hay utilidades como CCleaner o Tuneup utilities para que le des un mantenimiento a tu pc, entre los que estan eliminar los archivos innecesarios, desfragmentar en disco y el registro de windows, en fin y esto se hace de acuerdo al uso que le des a tu pc pero una ves por semana o cada 15 dias es lo ideal para que mantengas a punto tu equipo.
 
-> ¿MI WINDOWS NO PUEDE ENCONTRAR EL NUEVO HADWARE?
-
-**_¿EL HARDWARE "PLUG AND PLAY" NO FUNCIONA?_**
-> Con el software Plug and Play (PnP), podrás conectar un nuevo dispositivo en tu computadora y hacer que lo reconozca instantáneamente. Sin embargo, PnP puede detectar equivocadamente el nuevo hardware o incluso no detectarlo. Si esto sucede, haz una copia de seguridad de tu disco duro, crea un disco de arranque de emergencia y vuelve a iniciar el equipo. Si esto no funciona, el problema puede ser un conflicto en el puerto IRQ. Para averiguarlo, revisa el administrador de dispositivos. Haga clic en el dispositivo mal instalado que indica la bandera. Ahora haz clik en RECURSOS y desactiva USE LA CONFIGURACION AUTOMATICA. En TIPOS DE RECURSOS, haz clic en los puertos y bloques de memoria superior que presentan conflicto con otros dispositivos. Ahora completa EDITE EL RECURSO, haga clic en ACEPTAR y reinicia.
-
-Las tarjetas ISA, Industry Standard Architecture y los recursos de la tarjeta madre también pueden causar problemas PnP. El sistema BIOS puedes asignar a una ranura PCI el IRQ que la tarjeta ISA ya tomó. Para solucionar este problema, intenta apagar o reasignar los recursos de la tarjeta madre a través de la BIOS.
-
->
+**_¿Rencomendaciones  para un buen estado de PC?_**
