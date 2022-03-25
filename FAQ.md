@@ -129,7 +129,60 @@ Controladores; Si la impresora que estás utilizando no está configurada como �
 
 > Microproocesador, Memoria RAM, Tarjeta grafica, Disco duro
 
-**_29°
+**_29°¿Se me garantiza una solución?_**
+
+> Aunque nuestros profesionales de soporte técnico harán los mejores esfuerzos para resolver tu problema, Microsoft no puede garantizar resolver todos los problemas, debido a la diversidad de las configuraciones informáticas de nuestros clientes. Los clientes pueden solicitar cerrar un caso antes de que se resuelva; sin embargo, el estado de facturación del incidente queda a discreción de Microsoft.
+
+**_30°¿Cuándo expiran los incidentes de un paquete de 5?	_**
+
+> Los incidentes expiran en el plazo de un año a partir de la compra
+
+**_31°¿Que es el MS/2?_**
+
+> Es un Sistema operativo ue se mane”a en la computadora a tra%5s dec+di7os.
+
+**_32°¿Cómo puedo saber si mi producto está todavía en el ciclo de vida y es apto para el soporte técnico?_**
+
+> Los incidentes de soporte técnico profesional de Microsoft cubren todo el ciclo de vida del producto (tanto el soporte técnico estándar como el soporte técnico extendido). Para obtener más información, busca.tu.producto para revisar la elegibilidad del ciclo de vida.
+
+**_33°¿Hay algo que el soporte técnico Profesional no cubra?_**
+
+> Las propuestas de los clientes para las características del producto, el soporte técnico in situ, el análisis de la causa principal, los productos fuera del ciclo de vida del soporte técnico, la escritura o revisión del código personalizado y el soporte técnico para desarrolladores para complementos de Office 365, API, etc., incluyendo Microsoft Graph, no están cubiertos.
+
+**_34°¿Qué se considera una solución aceptable al problema?_**
+
+> El profesional de soporte técnico se pondrá de acuerdo contigo en la definición del problema cuando plantee el incidente de soporte técnico. El incidente se cerrará después de que el profesional de soporte técnico te haya entregado una o más soluciones sugeridas.
+
+**_35°¿Puedo acceder al soporte?_**
+
+> El acceso al soporte estándar está incluido en su suscripción a los productos de Tableau. Está disponible durante la vigencia de su contrato de suscripción. El soporte estándar también se incluye en la compra de licencias perpetuas durante un año. Luego de transcurrido ese período, requiere la renovación anual del mantenimiento. Tableau también ofrece programas de soporte ampliado y soporte prémium. Podrá encontrar los detalles en la página Servicios de soporte. Para obtener más información sobre la renovación, consulte nuestra Política de suscripción y mantenimiento.
+
+**_36°¿Cual es la memoria RAM?_**
+
+> La memoria de acceso aleatorio se utiliza como memoria de trabajo para computadoras y otros dispositivos para el sistema operativo, los programas y la mayor parte del software
+
+**_37°¿Que herramientas se ocupan para limpíar la PC?_**
+
+> Alcohol isopropílico, el producto obligado.
+Pincel, el desatascador de ventiladores.
+Paño microfibra, no deja rastro.
+Aire comprimido: una vez que lo pruebas, no hay vuelta atrás.
+Aspirador de mano, evita usar escoba y recogedor luego.
+
+**_38°¿Cual es la vida util del mouse?_**
+
+> 10 millones de pulsaciones	2,9 años
+20 millones de pulsaciones	5,7 años
+30 millones de pulsaciones	8,6 años
+50 millones de pulsaciones	14,3 años
+
+**_39°¿Vida util del teclado?_**
+
+> Durabilidad: Los teclados mecánicos son sumamente resistentes al accionamiento repetitivo, con una durabilidad promedio de 50 millones de pulsaciones, a diferencia de los teclados de membrana, con una vida útil cercana a los 10 millones de pulsaciones.
+
+**_40°¿Por qué es importante el computador en el hogar?_**
+
+> Tener un buen computador en casa te ayudará a ser eficaz en tus actividades digitales, después de esta nueva revolución industrial, la tecnología no sólo será una herramienta de comunicación, sino una oportunidad de emprendimiento, formación y entretenimiento indispensable en el futuro, pues la reinvención de este nuevo mundo no podrá desconocer las consecuencias de esta problemática que vivimos hoy, que seguramente nos mantendrá por un largo tiempo lejos de los abrazos y las reuniones sociales. 
 
 
 
