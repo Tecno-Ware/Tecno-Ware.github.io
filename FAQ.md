@@ -97,6 +97,32 @@
 
 > Generalmente viene acompañado de un texto que indica el código de error al que corresponde y sirve como referencia para saber qué pasó. Usualmente indica un problema serio, que puede estar relacionado con el hardware o el driver.
 
+**_¿Que hacer si mi sistema se cuelga?_**
+
+> Diferentes problemas pueden detener el sistema, como los problemas de memoria y de fluido eléctrico, sin embargo siempre se culpa a los controladores. Los controladores para el hardware rara vez se actualizan y con frecuencia tienen errores de programación. Para solucionar este problema, haz una copia de seguridad de tu disco duro y crea un disco de arranque de emergencia en un disquete, luego ve a INICIO / CONFIGURACION / PANEL DE CONTROL y selecciona AGREGAR / QUITAR PROGRAMAS. Desde el panel DISCO DE ARRANQUE, haz clik en CREAR DISCO. Luego, consulta el sitio Web de un distribuidor para descargar un nuevo controlador.
+
+**_¿Mi WINDOWS no puede encotrar el nuevo hadware?_**
+
+> Primero consulta el manual para verificar que el dispositivo esté correctamente instalado. Si está bien instalado, haz clic en MI PC / PROPIEDADES / ADMINSITRADOR DE DISPOSITIVOS. Encuentra el dispositivo que tiene el problema. Si se levanta la bandera, utilice PROPIEDADES para ver cuál es el problema. Si no se soluciona, haz clic en QUITAR y reinicie el equipo. Ahora Windows debe volver a reconocer el hardware que acabas de quitar y debe instalar los controladores adecuados, para lo cual necesita tener primero una copia del nuevo controlador del sistema. Si no funciona, utiliza el asistente AGREGAR NUEVO HARDWARE para seleccionar el dispositivo y controladores manualmente.
+
+**_¿El hadware no funciona?_**
+
+> Con el software Plug and Play (PnP), podrás conectar un nuevo dispositivo en tu computadora y hacer que lo reconozca instantáneamente. Sin embargo, PnP puede detectar equivocadamente el nuevo hardware o incluso no detectarlo. Si esto sucede, haz una copia de seguridad de tu disco duro, crea un disco de arranque de emergencia y vuelve a iniciar el equipo. Si esto no funciona, el problema puede ser un conflicto en el puerto IRQ.
+
+**_¿La impresora no imprime?_**
+
+Controladores; Si la impresora que estás utilizando no está configurada como “impresora predeterminada” o el controlador no está instalado, la impresora puede imprimir caracteres distorsionados.
+
+**_¿El ecaner no funciona?_**
+
+> El principal problema de los escáners es el puerto paralelo.
+
+**_¿Mi imagen no aparece en la pantalla o aparce una gama limitada de colores?_**
+
+> No aparece la imagen. Revisa que la pantalla esté encendida, los cables estén conectados y la configuración de brillo y contraste esté correcta.
+ 
+
+
 
 
 
