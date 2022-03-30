@@ -4,7 +4,7 @@
 
 <form action="https://formspree.io/f/xbjwaowz" method="post">
 Nomre: <input type="text" name="name"><br>
-Apellido: <input type="text" name="name"><br>
+Apellido: <input type="text" apellidos="apellidos"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
 </form>
