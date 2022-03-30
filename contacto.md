@@ -10,7 +10,7 @@ No. Telefonico: <input type="text" name="no. telefonico"><br>
 <input type="submit">
 </form>
 
-<label for="birthdaytime">Birthday (date and time):</label>
+<label for="birthdaytime">Fecha de servicio(date and time):</label>
   <input type="datetime-local" id="birthdaytime" name="birthdaytime">
   <input type="submit" value="Submit">
 
