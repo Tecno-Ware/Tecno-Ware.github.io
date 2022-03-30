@@ -10,14 +10,18 @@ No. Telefonico: <input type="text" name="no. telefonico"><br>
 <input type="submit">
 </form>
 
-<label for="vol">Calificacion (between 1 and 10):</label>
+<label for="birthdaytime">Birthday (date and time):</label>
+  <input type="datetime-local" id="birthdaytime" name="birthdaytime">
+  <input type="submit" value="Submit">
+
+<label for="vol">Calificacion ( 1 and 10):</label>
 <input type="range" id="vol" name="vol" min="0" max="50">
   <input type="submit" value="Submit">
-</form>
 
 por correo elec que es :manu_cracks@outlook.com
 
 NUMERO  TELEFONICO: 5591398302
+  
   
   
  
