@@ -10,6 +10,7 @@ No. Telefonico: <input type="text" name="no. telefonico"><br>
 <input type="submit">
 </form>
 
+<label for="vol">Calificacion (between 1 and 10):</label>
 
 por correo elec que es :manu_cracks@outlook.com
 
