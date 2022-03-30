@@ -4,8 +4,9 @@
 
 <form action="https://formspree.io/f/xbjwaowz" method="post">
 Nomre: <input type="text" name="name"><br>
-Apellido: <input type="text" apellidos="apellidos"><br>
+Apellido: <input type="text" name="apellidos"><br>
 E-mail: <input type="text" name="email"><br>
+No. Telefonico: <input type="text" name="no. telefonico"><br>
 <input type="submit">
 </form>
 
@@ -13,4 +14,5 @@ E-mail: <input type="text" name="email"><br>
 por correo elec que es :manu_cracks@outlook.com
 
 NUMERO  TELEFONICO: 5591398302
+  
   
