@@ -11,6 +11,9 @@ No. Telefonico: <input type="text" name="no. telefonico"><br>
 </form>
 
 <label for="vol">Calificacion (between 1 and 10):</label>
+<input type="range" id="vol" name="vol" min="0" max="50">
+  <input type="submit" value="Submit">
+</form>
 
 por correo elec que es :manu_cracks@outlook.com
 
